@@ -1,0 +1,14 @@
+body {
+  font-family: arial,sans-serif;
+  margin: 10px;
+}
+
+li {
+  display: inline;
+  font-size: 13px;
+  padding-left: 15px;
+}
+
+.align-right {
+   float: right;
+}
